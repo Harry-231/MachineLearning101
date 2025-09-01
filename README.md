@@ -16,6 +16,41 @@
 
 This repository is your **one-stop destination** for mastering machine learning from the ground up. We're building a comprehensive collection of practical notebooks that take you from basic concepts to cutting-edge AI applications.
 
+### 🗳️ **Quick Poll: What's Your ML Goal?**
+*Click on your primary learning objective to see how this repo can help you!*
+
+<details>
+<summary>🎯 I want to break into Data Science</summary>
+
+**Perfect!** Start with our supervised learning foundations, then dive into our comprehensive data analysis notebooks. You'll build a portfolio-worthy skillset from regression to advanced ML algorithms.
+
+**Recommended Path**: Linear Regression → Classification → Clustering → Deep Learning
+</details>
+
+<details>
+<summary>🤖 I'm interested in AI/LLM applications</summary>
+
+**Excellent choice!** Our roadmap takes you from ML fundamentals through to cutting-edge LLM implementations. You'll understand the theory AND build practical applications.
+
+**Recommended Path**: Fundamentals → Deep Learning → NLP → Large Language Models
+</details>
+
+<details>
+<summary>📊 I want to master Machine Learning algorithms</summary>
+
+**You're in the right place!** We cover everything from basic linear regression to ensemble methods, with mathematical intuition and practical implementation.
+
+**Recommended Path**: Follow our complete curriculum from Supervised → Unsupervised → Advanced Techniques
+</details>
+
+<details>
+<summary>🎓 I'm a student/beginner starting from scratch</summary>
+
+**Welcome to your ML journey!** Our step-by-step approach with real datasets and clear explanations makes complex concepts accessible.
+
+**Recommended Path**: Start with Linear Regression → Build confidence → Explore advanced topics at your pace
+</details>
+
 ### 🗺️ Learning Roadmap
 
 ```mermaid
@@ -23,10 +58,8 @@ graph TD
     A[📊 Supervised Learning] --> B[🤖 Unsupervised Learning]
     B --> C[🧠 Deep Learning]
     C --> D[🗣️ Natural Language Processing]
-    C --> E[👁️ Computer Vision]
-    D --> F[🤖 Large Language Models]
-    E --> F
-    F --> G[🚀 Advanced AI Applications]
+    D --> E[🤖 Large Language Models]
+    E --> F[🚀 Advanced AI Applications]
 ```
 
 ## 📚 Current & Upcoming Content
@@ -60,11 +93,11 @@ graph TD
   - Topic Modeling & Document Similarity
   - Transformer-based Models (BERT, GPT)
 
-- **Computer Vision Excellence**
-  - Image Classification & Object Detection
-  - Image Segmentation & Style Transfer
-  - Generative Adversarial Networks (GANs)
-  - Vision Transformers (ViTs)
+- **Advanced ML Techniques**
+  - Reinforcement Learning Basics
+  - Time Series Forecasting
+  - Recommender Systems
+  - AutoML & Hyperparameter Optimization
 
 - **Large Language Models & Beyond**
   - Fine-tuning Pre-trained Models
@@ -178,8 +211,8 @@ Track your journey through our ML curriculum:
 - [ ] Neural Networks Basics
 - [ ] Deep Learning Architectures
 - [ ] NLP Fundamentals
-- [ ] Computer Vision Basics
-- [ ] Advanced AI Applications
+- [ ] Advanced ML Techniques
+- [ ] Large Language Models
 
 ## 🙏 Acknowledgments
 
