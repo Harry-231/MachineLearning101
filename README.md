@@ -201,18 +201,6 @@ We believe in learning together! Here's how you can contribute:
 - **🎯 Focused**: Clear, concise explanations without unnecessary complexity
 - **🌐 Community-Driven**: Built by learners, for learners
 
-## 📈 Learning Progress Tracker
-
-Track your journey through our ML curriculum:
-
-- [ ] Linear Regression Fundamentals
-- [ ] Classification Algorithms
-- [ ] Clustering & Unsupervised Learning
-- [ ] Neural Networks Basics
-- [ ] Deep Learning Architectures
-- [ ] NLP Fundamentals
-- [ ] Advanced ML Techniques
-- [ ] Large Language Models
 
 ## 🙏 Acknowledgments
 
